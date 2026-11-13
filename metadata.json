@@ -1,0 +1,6 @@
+{
+  "name": "পাটগ্রাম কল্যাণ সমিতি, রংপুর",
+  "description": "পাটগ্রাম কল্যাণ সমিতি, রংপুর (স্থাপিত: ২০০৯) — সেন্ট্রাল ডিজিটাল প্ল্যাটফর্ম ও পূর্ণাঙ্গ নো-কোড অর্গানাইজেশনাল ম্যানেজমেন্ট সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
